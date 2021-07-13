@@ -1,11 +1,8 @@
 const CONFIG = {
     introTitle: 'hi bạn!',
-    introDesc: `Sài Gòn rộng lắm
-    Vẫn tìm thấy nhau
-    Mình nhớ bạn lắm
-    Bạn có biết đâu`,
+    introDesc: `Sắp 1 năm yêu bạn rồi á, mình làm cái này để hỏi bạn xíu nhaaaaa`,
     btnIntro: 'hihi',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
+    title: 'Vương ơi Thúy bảo vương này, trả lời cho đúng không mày xong luôn 😙',
     desc: 'Thế mình là nóc nhà hay bạn là nóc nhà 😙 ',
     btnYes: 'Bạn Thúy mlem 😘',
     btnNo: 'Là mình bạn à :3',
